@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="bak" type="HTML" />
+      <mapping pattern="counter" type="PLAIN_TEXT" />
+      <mapping pattern="001_add_username_to_customer_backup" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>
